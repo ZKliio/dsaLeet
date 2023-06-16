@@ -1,3 +1,5 @@
+## this is the submittedd solution ##
+## also tmp is faster than tuple ##
 def mergeTwoLists(list1, list2, m, n):
     l1 = list1
     l2 = list2
